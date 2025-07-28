@@ -1,38 +1,153 @@
-vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&headerType=none&fp=chrome&spx=%2FAchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40AchaVPN
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2FAchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN---AchaVPN&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40AchaVPN
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B3%20%7C%20%40BigSmoke_Config
-vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40ConfigV2RayNG%F0%9F%87%AB%F0%9F%87%AE
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@147.182.144.155:2095?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#canada%F0%9F%87%A8%F0%9F%87%A6%28tcp%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@46.101.16.107:2095?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#uk%F0%9F%87%AC%F0%9F%87%A7%28tcp%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@uk1.configlinepanel.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#uk%F0%9F%87%AC%F0%9F%87%A7%28reality%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@172.66.40.99:8880?security=&encryption=none&host=uk.configlinepanel.online&type=httpupgrade#uk%F0%9F%87%AC%F0%9F%87%A7%28cdn%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@de1.configlinepanel.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#germany%F0%9F%87%A9%F0%9F%87%AA%28reality%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@91.99.234.153:2095?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#de%F0%9F%87%A9%F0%9F%87%AA%F0%9F%9A%80ir%F0%9F%87%AE%F0%9F%87%B7
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@172.66.40.99:8880?security=&encryption=none&host=nl.configlinepanel.online&type=httpupgrade#netherland%F0%9F%87%B7%F0%9F%87%BA%28cdn%29
-vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=firefox&spx=%2F&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#%40ConfigV2RayNG%F0%9F%87%AB%F0%9F%87%AE
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@172.66.40.99:8880?security=&encryption=none&host=us.configlinepanel.online&type=httpupgrade#usa%F0%9F%87%BA%F0%9F%87%B8%28cdn%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@91.99.229.238:2095?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#germany%F0%9F%87%A9%F0%9F%87%AA%28tcp%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#canada%F0%9F%87%A8%F0%9F%87%A6%28reality%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@us1.configlinepanel.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#usa%F0%9F%87%BA%F0%9F%87%B8%28reality%29
-vless://da0bd782-8510-4f9f-945b-31c5cd1b3d85@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D8880&security=none&encryption=none&host=usls.configlinepanel.online.&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40ConfigV2RayNG
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@172.66.40.99:8880?security=&encryption=none&host=ca.configlinepanel.online&type=httpupgrade#canada%F0%9F%87%A8%F0%9F%87%A6%28cdn%29
-vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40ConfigV2RayNG%F0%9F%87%AB%F0%9F%87%AE
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#india%F0%9F%87%AE%F0%9F%87%B3%28reality%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@172.66.40.99:8880?security=&encryption=none&host=in.configlinepanel.online&type=httpupgrade#india%F0%9F%87%AE%F0%9F%87%B3%20%28cdn%29
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@89.34.230.152:2095?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#netherland%F0%9F%87%B7%F0%9F%87%BA%28tcp%29
-vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40ConfigV2RayNG%F0%9F%87%AB%F0%9F%87%AE
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@159.89.160.226:2095?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#india%F0%9F%87%AE%F0%9F%87%B3%28tcp%29
-vless://f7f0f020-3153-41b5-854b-304245d7bd0b@all97-vip.f-sub.com:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇩🇪All¹ | @BigSmoke_Config
-
-vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=%2FKvNugxSUpljMOjgF%2FNzguNDcuMTU3LjY%3D%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=invincible.fafa20.shop&fp=randomized&allowinsecure=0&type=ws&sni=InviNCIble.FAfA20.shOP#🇩🇪All² | @BigSmoke_Config
-
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&encryption=none&headerType=none&type=tcp#🇩🇪All³ | @BigSmoke_Config
-
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?path=%2FFree-CF-Proxy-AE19&security=tls&encryption=none&host=freexxx.xhamster.biz.id&allowinsecure=0&type=ws&sni=freexxx.xhamster.biz.id#🇩🇪All⁴ | @BigSmoke_Config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#I🇩🇪All¹ | @BigSmoke_Config
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪All² | @BigSmoke_Config
-
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇩🇪All³ | @BigSmoke_Config
-
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&allowinsecure=0&type=ws&sni=kawaiifreevpn-7ds.pages.dev#🇩🇪All⁴ | @BigSmoke_Config
+{
+  "api": {
+    "listen": "[::1]:10085",
+    "services": [
+      "HandlerService",
+      "StatsService"
+    ],
+    "tag": "api"
+  },
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com"
+    },
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      {
+        "address": "1.1.1.1",
+        "domains": [],
+        "port": 53
+      },
+      {
+        "address": "8.8.8.8",
+        "domains": [],
+        "port": 53
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled": true
+      },
+      "tag": "http"
+    }
+  ],
+  "log": {
+    "access": "/storage/emulated/0/Android/data/com.happproxy/files/logs/access_log.txt",
+    "dnsLog": true,
+    "error": "/storage/emulated/0/Android/data/com.happproxy/files/logs/1753698903299_error_log.txt",
+    "loglevel": "debug"
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": ""
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.66.40.99",
+            "port": 8880,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "cd307b67-8180-491c-ad97-5dfd74cb38de",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "httpupgradeSettings": {
+          "host": "in.configlinepanel.online",
+          "path": "/"
+        },
+        "network": "httpupgrade",
+        "security": ""
+      },
+      "tag": "proxy"
+    },
+    {
+      "protocol": "freedom",
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "tag": "block"
+    }
+  ],
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundUplink": true,
+      "statsOutboundDownlink": true
+    }
+  },
+  "remarks": "لطفا برای استفاده از فیلترشکن اطلاع دهید تغییر پروتکل v2",
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "ip": [
+          "1.1.1.1"
+        ],
+        "outboundTag": "proxy",
+        "port": "53"
+      },
+      {
+        "ip": [
+          "8.8.8.8"
+        ],
+        "outboundTag": "direct",
+        "port": "53"
+      }
+    ]
+  },
+  "stats": {}
+}
